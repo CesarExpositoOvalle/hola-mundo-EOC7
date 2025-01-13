@@ -1,0 +1,5 @@
+"I'm not afraid of computers; what I'm afraid of is being left without them" student code
+-- Isaac Asimov
+
+"Computer science has to do wuth computers the same as astronomy has to do with telescopes" student code
+--Edsger W. Dijkstra
